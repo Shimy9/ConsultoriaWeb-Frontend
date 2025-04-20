@@ -1,3 +1,3 @@
 Consultoria Web - Evaluacion 1 Frontend
 
-[ConsultoriaWeb.pdf](https://github.com/user-attachments/files/19827254/ConsultoriaWeb.pdf)
+![ConsultoriaWeb](https://github.com/user-attachments/assets/956c08f5-990e-4b70-9f97-de0a8455d0f8)
