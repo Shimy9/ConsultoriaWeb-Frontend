@@ -1,0 +1,85 @@
+/* GENERAL STYLES */
+html, body {
+    height: 100%;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+}
+body > *:not(footer) {
+    flex: 1;
+}
+/* NAV */
+.navbar .container-fluid {
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+.logo-nav {
+    width: 200px; 
+    height: auto; 
+
+}
+
+/* HERO SECTIOM */
+.display-3 { 
+    font-family: "Oswald", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+}
+
+.text-orange {
+    color: #ffc375ff;
+    font-size: 1.2em;
+}
+
+
+h3 {
+    font-weight: bold; 
+    margin-bottom: 0; 
+    font-size: 30px;  
+}
+
+.about img, .hero img {
+    max-width: 100%; 
+    height: auto;
+}
+
+.servicios .col {
+    border: 1px solid #ddd; 
+    border-radius: 8px; 
+    padding: 20px; 
+    margin-bottom: 20px; 
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.nosotros .col {
+    border: 1px solid #ddd; 
+    border-radius: 8px; 
+    padding: 20px; 
+    margin-bottom: 20px; 
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+/* CONTACT SECTION */
+.no-underline {
+    text-decoration: none; 
+    color: #ffc375ff; 
+}
+
+.contac-info {
+    text-align: center;
+    padding : 20px;
+    
+}
+
+/* FOOTER */
+footer {
+    background-color: #202020;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    width: 100%;
+;
+}
+
